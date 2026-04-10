@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.QRMaster" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#10B981</item>
+        <item name="colorPrimaryVariant">#059669</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#3B82F6</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#059669</item>
+        <item name="android:windowBackground">#111827</item>
+        <item name="android:colorBackground">#111827</item>
+    </style>
+</resources>
